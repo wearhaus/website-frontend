@@ -35,6 +35,10 @@
        	font-size: 12px;
        }
 
+    #footer-logos {
+        padding: 30px 0px 50px 0px;
+    }
+
 /* smartphones */
 @media(max-width:767px) {
     footer img { /* resize social media icons */
