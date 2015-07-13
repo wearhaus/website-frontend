@@ -13,7 +13,13 @@
 
 /* TAGS */
 
-    a {
+    a,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         font-family: "Lato", arial, sans-serif;
         font-weight: 300;
         text-transform: uppercase;
@@ -35,17 +41,6 @@
 
     form .row:first-child .floating-label-form-group {
         border-top: 1px solid #eee;
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        font-family: "Lato", arial, sans-serif;
-        font-weight: 300;
-        text-transform: uppercase;
     }
 
     h1 {
