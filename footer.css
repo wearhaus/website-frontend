@@ -5,6 +5,13 @@
  *
  */
 
+   a:hover, a:focus  {
+      transition: color 0.2s ease;
+      color: #0bc;
+      outline: 0;
+      text-decoration: none;
+   }
+
    footer {
        color: black;
    }
@@ -48,3 +55,9 @@
     footer a { /* resize links to other pages */
     	font-size: 14px;
     }
+
+@media(max-width: 480px) { /* portrait layout */
+  footer img {
+    zoom: 40%;
+  }
+}

@@ -34,7 +34,7 @@
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus  {
     transition: color 0.2s ease;
-    color: #00bbcc;
+    color: #0bc;
     outline: 0;
  }
 
